@@ -1,1 +1,0 @@
-"""FusionX backend application package."""
